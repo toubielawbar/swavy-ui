@@ -1,0 +1,17 @@
+!.gitignore
+.npmignore
+.idea
+.vscode
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+.build*
+
+package-lock.json
+node_modules
+
+source
+
+
+*.zip
