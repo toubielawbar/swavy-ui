@@ -42,4 +42,4 @@ You can reach me by email at if you want to discuss more about Swavy UI. [toubie
 
 ## Copyright and license
 
-Code and documentation copyright 2011–2023 the [Bootstrap Authors](https://github.com/toubielawbar/swavy-ui/graphs/contributors). Code released under the [MIT License](https://github.com/toubielawbar/swavy-ui/blob/master/LICENSE)
+Code and documentation copyright 2024 the [Swavy UI Contributors](https://github.com/toubielawbar/swavy-ui/graphs/contributors). Code released under the [MIT License](https://github.com/toubielawbar/swavy-ui/blob/master/LICENSE)
