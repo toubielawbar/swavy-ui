@@ -1,11 +1,9 @@
 {
-  
   "name": "swavy-ui",
   "description": "![Swavy UI](http://swavy-ui.toubietech.com/assets/img/logo.png) Swavy UI is a cutting-edge CSS framework designed to elevate your web development experience",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "main": "dist/js/swavy-ui.min.js",
   "style": "dist/css/swavy-ui.min.css",
-  
   "scripts": {
     "test": "mocha"
   },
@@ -51,5 +49,8 @@
     "directories": {
       "lib": "dist"
     }
+  },
+  "dependencies": {
+    "swavy-ui": "^1.1.0"
   }
 }
