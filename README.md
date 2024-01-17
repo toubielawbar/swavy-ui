@@ -1,11 +1,11 @@
-![Swavy UI](http://swavy-ui.toubietech.com/assets/img/logo.png)
+![Swavy UI](https://swavy-ui.toubietech.com/assets/img/logo.png)
 
 * Swavy UI is a cutting-edge CSS framework designed to elevate your web development experience
 
-![Github](https://img.shields.io/github/v/release/toubielawbar/swavy-ui?logo=SwavyUI)
-[![npm](https://img.shields.io/npm/v/swavy-ui.svg)][npm-link]
-[![npm](https://img.shields.io/npm/dm/swavy-ui.svg)][npm-link]
-[![](https://data.jsdelivr.com/v1/package/npm/swavy-ui/badge)](https://www.jsdelivr.com/package/npm/swavy-ui)
+<!-- ![Github](https://img.shields.io/github/v/release/toubielawbar/swavy-ui?logo=SwavyUI) -->
+<!-- [![npm](https://img.shields.io/npm/v/swavy-ui.svg)]
+[![npm](https://img.shields.io/npm/dm/swavy-ui.svg)]
+[![](https://data.jsdelivr.com/v1/package/npm/swavy-ui/badge)](https://www.jsdelivr.com/package/npm/swavy-ui) -->
 
 ## FEATURES
 
@@ -42,4 +42,4 @@ You can reach me by email at if you want to discuss more about Swavy UI. [toubie
 
 ## Copyright and license
 
-Code and documentation copyright 2011–2023 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors). Code released under the [MIT License](https://github.com/toubielawbar/swavy-ui/blob/master/LICENSE)
+Code and documentation copyright 2011–2023 the [Bootstrap Authors](https://github.com/toubielawbar/swavy-ui/graphs/contributors). Code released under the [MIT License](https://github.com/toubielawbar/swavy-ui/blob/master/LICENSE)
