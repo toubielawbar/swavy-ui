@@ -1,4 +1,4 @@
-![Swavy UI](https://swavy-ui.toubietech.com/assets/img/logo.png)
+![Swavy UI](https://swavy-ui.com.ng/assets/img/swavy-logo.png)
 
 * Swavy UI is a cutting-edge CSS framework designed to elevate your web development experience
 
