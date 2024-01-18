@@ -1,6 +1,8 @@
-![Swavy UI](https://swavy-ui.com.ng/assets/img/swavy-logo.png)
+![Swavy UI](https://swavy-ui.com.ng/assets/img/swavy-logo.png) SWAVY UI
 
 * Swavy UI is a cutting-edge CSS framework designed to elevate your web development experience
+
+[![](https://data.jsdelivr.com/v1/package/npm/swavy-ui/badge)](https://www.jsdelivr.com/package/npm/swavy-ui)
 
 <!-- ![Github](https://img.shields.io/github/v/release/toubielawbar/swavy-ui?logo=SwavyUI) -->
 <!-- [![npm](https://img.shields.io/npm/v/swavy-ui.svg)]
@@ -28,6 +30,12 @@
 
 ```bash
 npm install swavy-ui  
+```
+
+OR
+
+```bash
+yarn install swavy-ui  
 ```
 
 Swavy UI provides comprehensive solution that seamlessly integrates a vibrant color spectrum, versatile utility classes, and intuitive helper functions, all wrapped up with a plethora of pre-built components. 
